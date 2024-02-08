@@ -1,4 +1,4 @@
-package com.lorenzhoerb.securitydemo.security;
+package com.lorenzhoerb.securitydemo.service;
 
 import com.lorenzhoerb.securitydemo.dto.UserCreateRequest;
 import com.lorenzhoerb.securitydemo.dto.UserDetailsDto;

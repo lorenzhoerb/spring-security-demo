@@ -2,7 +2,7 @@ package com.lorenzhoerb.securitydemo.controller;
 
 import com.lorenzhoerb.securitydemo.dto.UserCreateRequest;
 import com.lorenzhoerb.securitydemo.dto.UserDetailsDto;
-import com.lorenzhoerb.securitydemo.security.AdminService;
+import com.lorenzhoerb.securitydemo.service.AdminService;
 import jakarta.validation.Valid;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
